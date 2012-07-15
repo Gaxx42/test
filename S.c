@@ -1,4 +1,4 @@
 int main()
 {
-	printf("S1");
+	printf("S2");
 }
